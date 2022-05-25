@@ -1,21 +1,23 @@
 {
 	"objectName" : "wrMetroidZMSpacePirateDoor",
-	"colonyTags" : ["door"],
+	"colonyTags" : ["door", "metroid"],
 	"printable" : true,
-	"rarity" : "Common",
+	"rarity" : "Rare",
 	"category" : "door",
 	"price" : 130,
-	"description" : "A Forcefield door, hit it to open it!",
+	"description" : "A shielded door, hit it to open it!",
 	"shortdescription" : "Space Pirate Door",
 	"race" : "generic",
 
-	"apexDescription" : "A forcefield door.",
-	"avianDescription" : "A forcefield door.",
-	"floranDescription" : "A forcefield door.",
-	"glitchDescription" : "A forcefield door.",
-	"humanDescription" : "A forcefield door... Seems familiar.",
-	"hylotlDescription" : "A forcefield door.",
-	"novakidDescription" : "A forcefield door.",
+	"learnBlueprintsOnPickup" : [ "wrMetroidZMSpacePirateDoor", "wrMetroidZMBasicDoor" ],
+
+	"apexDescription" : "A shielded door.",
+	"avianDescription" : "A shielded door.",
+	"floranDescription" : "A shielded door.",
+	"glitchDescription" : "A shielded door.",
+	"humanDescription" : "A shielded door... Seems familiar.",
+	"hylotlDescription" : "A shielded door.",
+	"novakidDescription" : "A shielded door.",
 
 	"animation" : "/objects/wasabiRaptor/metroidDoor/metroidDoor.animation",
 
