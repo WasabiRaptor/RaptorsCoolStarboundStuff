@@ -1,0 +1,6 @@
+[
+	[
+		{ "op": "add", "path": "/defaultBlueprints/tier1/-", "value": { "item": "wrMetroidZMSpacePirateDoor" } },
+		{ "op": "add", "path": "/defaultBlueprints/tier1/-", "value": { "item": "wrMetroidZMBasicDoor" } }
+	]
+]
