@@ -1,0 +1,13 @@
+{
+	"version" : "1.0",
+	"tags" : "",
+	"author" : "Wasabi_Raptor",
+	"description" : "",
+	"link" : "",
+	"name" : "Wasabi_Raptor's Cool Stuff",
+	"friendlyName" : "Raptor's cool starbound stuff!",
+	"includes" : [
+		"starboundSpeciesAnimOverrides",
+		"Starbecue"
+	]
+}
